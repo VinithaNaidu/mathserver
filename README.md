@@ -133,6 +133,3 @@ urlpatterns = [
 
 ## Result:
 The program for implementing server side processing is completed successfully.
-
-
-
