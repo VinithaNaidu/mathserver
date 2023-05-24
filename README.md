@@ -36,7 +36,7 @@ math.html
 <style type="text/css">
 body 
 {
-background-color:red;
+background-color:purple;
 }
 .edge {
 width: 1440px;
@@ -51,7 +51,7 @@ border: Thick dashed lime;
 width: 500px;
 min-height: 300px;
 font-size: 20px;
-background-color:blue;
+background-color:pink;
 }
 .formelt{
 color:orange;
@@ -126,10 +126,10 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![OUTPUT](./out.png)
+![OUTPUT](./viniout.png)
 
 ### Home Page:
-![HOME PAGE](./home.png)
+![HOME PAGE](./vinihome.png)
 
 ## Result:
 The program for implementing server side processing is completed successfully
